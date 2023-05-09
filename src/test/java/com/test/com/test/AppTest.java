@@ -11,5 +11,6 @@ public class AppTest {
     assertTrue(true);
     //test
     //test automation
+    //test automation payment
   }
 }
