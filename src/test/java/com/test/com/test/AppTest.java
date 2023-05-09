@@ -10,5 +10,6 @@ public class AppTest {
   public void shouldAnswerWithTrue() {
     assertTrue(true);
     //test
+    //test automation
   }
 }
